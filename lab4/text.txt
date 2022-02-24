@@ -1,2 +1,0 @@
-double Encryption in lab4
-Двойное шифрование в лаб4
